@@ -7,7 +7,7 @@ setup(
     author='Nihat Engin Toklu',
     author_email='engin@nnaisense.com',
     packages = ['pgpelib'],
-    install_requires=['numpy', 'torch', 'gym[box2d]', 'sacred', 'pymongo', 'pybullet', 'ray'],
+    install_requires=['numpy', 'torch', 'sacred', 'pymongo', 'pybullet', 'ray'],
     classifiers=[
         'Development Status :: 1 - Alpha',
         'Intended Audience :: Developers',
